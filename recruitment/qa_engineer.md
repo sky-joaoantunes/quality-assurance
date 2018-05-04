@@ -24,7 +24,6 @@ We are looking for an experienced QA engineer that will take an active part in a
 - Ability to work well in a team, self-driven and eager to learn
 - Pragmatic about what is best both technically and for the business
 - Able to create scripts for testing tools in one or more scripting languages
-- Strong sense of initiative
 - Creative thinking, analytical skills and attention to detail
 - Very well organized and methodic
 - Strong English speaking skills
