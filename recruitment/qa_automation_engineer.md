@@ -9,24 +9,24 @@ We are looking for an experienced QA automation tester that will take an active 
 - Responsible for ensuring features meet specified requirements
 - Definition of test plans, test scripts, test data requirements, etc.
 - Planning test environments and automation strategies.
-- Preperation of automation frameworks and test runs for API backenends
-- Preperation of automation frameworks and test runs for forntend clients
-- Preperation of builds and deployments
+- Preparation of automation frameworks and test runs for API back ends
+- Preparation of automation frameworks and test runs for frontend clients
+- Preparation of builds and deployments
 - Work closely with DevOps
 - Support production deployments
 
 ## Skills we are looking for
 - Minimum of 3 years of experience in test automation
 - Strong at programming in at least one of the following languages:
-  - Ruby, Python, Java, C# or Javascript
-- Experience with CI process and tools (jenkins, etc)
-- Passionate about develepoment and testing
+  - Ruby, Python, Java, C# or JavaScript
+- Experience with CI process and tools (Jenkins, etc.)
+- Passionate about development and testing
 - Knowledge of networking and HTTP Protocol
 - Ability to track down the root cause of a defect using debugging tools
 - Ability to work well in a team, self-driven and eager to learn
 - Pragmatic about what is best both technically and for the business
 - Creative thinking, analytical skills, with attention to detail
-- Very well organized and methodic
+- Very well organized and methodical
 - Strong English speaking skills
 - Lisbon based
 
