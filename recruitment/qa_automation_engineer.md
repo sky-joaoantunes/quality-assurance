@@ -5,7 +5,7 @@ We are looking for an experienced QA automation engineer that will take an activ
 - Help to define and manage our testing processes
 - Participate in the team's agile planning & delivery process
 - Report and triage detailed bug reports
-- technical root cause analysis of defects
+- Technical root cause analysis of defects
 - Responsible for ensuring features meet specified requirements
 - Definition of test plans, test scripts, test data requirements, etc.
 - Planning test environments and automation strategies.
