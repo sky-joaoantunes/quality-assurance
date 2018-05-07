@@ -1,7 +1,7 @@
-# QA Engineer
+# QA Functional Tester
 We are looking for an experienced QA engineer that will take an active part in all of the product development lifecycle.
 
-## What our QA Engineers do
+## What our QA team does
 - Help to define and manage our testing processes
 - Participate in the team's agile planning & delivery process
 - Report and triage detailed bug reports

@@ -1,7 +1,7 @@
-# QA Automation Engineer
-We are looking for an experienced QA automation engineer that will take an active part in all of the product development lifecycle.
+# QA Automation Tester
+We are looking for an experienced QA automation tester that will take an active part in all of the product development lifecycle.
 
-## What our QA Automation Engineers do
+## What our QA team does
 - Help to define and manage our testing processes
 - Participate in the team's agile planning & delivery process
 - Report and triage detailed bug reports
