@@ -1,7 +1,7 @@
 # QA Automation Engineer
 We are looking for an experienced QA automation engineer that will take an active part in all of the product development lifecycle.
 
-## Responsabilities
+## What our QA Automation Engineers do
 - Help to define and manage our testing processes
 - Participate in the team's agile planning & delivery process
 - Report and triage detailed bug reports
@@ -15,12 +15,11 @@ We are looking for an experienced QA automation engineer that will take an activ
 - Work closely with DevOps
 - Support production deployments
 
-
-## Requirements
+## Skills we are looking for
 - Minimum of 3 years of experience in test automation
 - Strong at programming in at least one of the following languages:
   - Ruby, Python, Java, C# or Javascript
-- Experience with CI process and tools (Jenkins, etc)
+- Experience with CI process and tools (jenkins, etc)
 - Passionate about develepoment and testing
 - Knowledge of networking and HTTP Protocol
 - Ability to track down the root cause of a defect using debugging tools
@@ -31,5 +30,6 @@ We are looking for an experienced QA automation engineer that will take an activ
 - Strong English speaking skills
 - Lisbon based
 
-## Preferred
-- Experience with video streaming technology
+## Nice to have skills
+- Experience with OTT video streaming
+- Experience testing TV devices
