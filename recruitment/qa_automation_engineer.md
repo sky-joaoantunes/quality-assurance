@@ -19,7 +19,7 @@ We are looking for an experienced QA automation engineer that will take an activ
 ## Requirements
 - Minimum of 3 years of experience in test automation
 - Strong at programming in at least one of the following languages:
-  - Ruby, Python, Java or Javascript
+  - Ruby, Python, Java, C# or Javascript
 - Passionate about develepoment and testing
 - Knowledge of networking and HTTP Protocol
 - Ability to track down the root cause of a defect using debugging tools
