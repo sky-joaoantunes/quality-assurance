@@ -16,7 +16,7 @@ We are looking for an experienced QA automation tester that will take an active 
 - Support production deployments
 
 ## Skills we are looking for
-- Minimum of 3 years of experience in test automation
+- Minimum of 2 years of experience in test automation
 - Strong at programming in at least one of the following languages:
   - Ruby, Python, Java, C# or JavaScript
 - Experience with CI process and tools (Jenkins, etc.)

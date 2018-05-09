@@ -17,7 +17,7 @@ We are looking for an experienced QA engineer that will take an active part in a
 - Ensure that User Experience is given high consideration
 
 ## Skills we are looking for
-- Minimum of 3 years of experience in Quality Assurance
+- Minimum of 2 years of experience in Quality Assurance
 - Passionate about customer experience and product quality
 - Basic knowledge of networking and HTTP Protocol
 - Ability to track down the root cause of a defect using debugging tools
